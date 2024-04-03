@@ -1,0 +1,11 @@
+{
+    "api": {
+        "url": "http://localhost/api/echo"
+    },
+    "db": {
+        "url": "mongodb://localhost:27017"
+    },
+    "log": {
+        "level": "info"
+    }
+}

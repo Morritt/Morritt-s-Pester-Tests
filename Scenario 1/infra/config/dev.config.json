@@ -1,0 +1,11 @@
+{
+    "api": {
+        "url": "https://dev-server123/api/echo"
+    },
+    "db": {
+        "url": "mongodb://dev-server234:27017"
+    },
+    "log": {
+        "level": "warning"
+    }
+}

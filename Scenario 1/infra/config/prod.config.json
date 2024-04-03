@@ -1,0 +1,11 @@
+{
+    "api": {
+        "url": "https://live-server123/api/echo"
+    },
+    "db": {
+        "url": "mongodb://live-server234:27017"
+    },
+    "log": {
+        "level": "info"
+    }
+}
